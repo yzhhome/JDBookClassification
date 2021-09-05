@@ -1,0 +1,16 @@
+python==3.8.10
+pytorch==1.7.1
+torchvision==0.8.2
+tensorflow==2.4.1
+keras==2.4.3
+gensim==4.0.1
+tensorflow==2.4.1
+numpy==1.19.2
+pandas==1.2.4
+transformers==4.7.0
+tqdm==4.61.0
+torchsnooper==0.8
+scikit-learn==0.24.2
+lightgbm==3.2.1
+flask==2.0.1
+tokenizers==0.10.3
