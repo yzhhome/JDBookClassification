@@ -9,7 +9,7 @@
 
 `src/utils/dataset.py` : 主要用于深度学习的数据处理
 
-`src/utils/mlData.py` : 主要用于机器学习的数据处理
+`src/utils/mldata.py` : 主要用于机器学习的数据处理
 
 `src/DL/` : 包含各类深度学习模型， 运行主入口为`src/DL/train.py`
 
